@@ -1,21 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@bmbmikeg 
-12
-113182portainer/templates
- Code Issues 23 Pull requests 12 Projects 0 Wiki Security Insights
-templates/templates.json
-@deviantony deviantony feat(templates): update logos URL and introduce templates-1.20.json
-a928e06 on Dec 11, 2018
-@deviantony@thib3113@daftaupe@jOphey@megastef@alexivkin
-839 lines (838 sloc)  23.4 KB
- 
 [
   {
     "type": "container",
